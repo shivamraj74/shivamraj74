@@ -51,6 +51,6 @@ Here are some ideas to get you started:
   <!--Made with :heart: &nbsp;using GitHub Markdown-->
   <br/>
    <br/>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="35%">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25%">
 </p>
 
