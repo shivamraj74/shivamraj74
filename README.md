@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif) 
 # Shivam Raj&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-<!--
-<h1 align="center">Hi 👋, I'm Shivam Raj</h1>
+
 <h3 align="center">likes programming and developing...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamraj74" alt="shivamraj74" /> </p>
@@ -43,7 +42,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamraj74&show_icons=true&count_private=true&theme=radical" alt="shivamraj74" /></p>
 
 
-
+<!--
 <img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="100%" height="auto"  />
 -->
 <p align="center">
