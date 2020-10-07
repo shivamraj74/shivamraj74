@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="100%" height="10%"  />
 
 <p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown
+  <!--Made with :heart: &nbsp;using GitHub Markdown-->
   <br/>
    <br/>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
