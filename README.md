@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="60%" height="10%"  />
+<img align="center" src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="60%" height="10%"  />
 
 <p align="center">
   <!--Made with :heart: &nbsp;using GitHub Markdown-->
