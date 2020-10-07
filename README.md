@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamraj74&layout=compact" alt="shivamraj74" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamraj74&show_icons=true&count_private=true" alt="shivamraj74" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamraj74&show_icons=true&count_private=true&theme=radical" alt="shivamraj74" /></p>
