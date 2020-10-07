@@ -50,6 +50,6 @@ Here are some ideas to get you started:
   <!--Made with :heart: &nbsp;using GitHub Markdown-->
   <br/>
    <br/>
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="40%">
 </p>
 
