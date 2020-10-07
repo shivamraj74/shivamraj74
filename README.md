@@ -49,8 +49,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!--Made with :heart: &nbsp;using GitHub Markdown-->
-  <br/>
-   <br/>
+  </br>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%">
 </p>
 
