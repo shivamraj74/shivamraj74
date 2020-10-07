@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <h1 align="center">Hi 👋, I'm Shivam Raj</h1>
 <h3 align="center">likes programming and developing...</h3>
 
@@ -42,3 +43,4 @@ Here are some ideas to get you started:
 
 
 <img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="100%" height="auto"  />
+-->
