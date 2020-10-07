@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif) 
 # Shivam Raj&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
@@ -51,3 +52,4 @@ Here are some ideas to get you started:
    <br/>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
+-->
