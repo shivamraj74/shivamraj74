@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif  />
+<img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="800"  />
