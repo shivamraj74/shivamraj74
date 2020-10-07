@@ -43,8 +43,9 @@ Here are some ideas to get you started:
 <p valign="middle">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamraj74&show_icons=true&count_private=true&theme=shades-of-purple&icon_color=fad000 alt="shivamraj74" /></p>
 
 
-
-<img align="center" src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="60%" height="10%"  />
+<p align="center">
+<img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="60%" height="10%"  />
+  </p>
 
 <p align="center">
   <!--Made with :heart: &nbsp;using GitHub Markdown-->
