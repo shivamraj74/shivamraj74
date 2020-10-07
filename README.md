@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif) 
+### Shivam Raj&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 <!--
 <h1 align="center">Hi 👋, I'm Shivam Raj</h1>
 <h3 align="center">likes programming and developing...</h3>
