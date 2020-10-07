@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamraj74&show_icons=true&count_private=true&theme=radical" alt="shivamraj74" /></p>
 
 
-<!--
+
 <img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="100%" height="auto"  />
--->
+
 <p align="center">
   Made with :heart: &nbsp;using GitHub Markdown
   <br/>
