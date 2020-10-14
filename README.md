@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="100%" height="auto"  />
+<img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" class="responsive" />
   </p>
 
 <p align="center">
