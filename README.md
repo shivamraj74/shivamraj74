@@ -22,9 +22,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamraj74" alt="shivamraj74" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://shivamraj.herokuapp.com/](https://shivamraj.herokuapp.com/)
+- 🌱 I’m currently pursuing Bachelor of Technology from Birla Institute of Technology majoring in Computer Science.
 
-- 📝 I regulary write articles on [https://theshivamraj.blogspot.com/](https://theshivamraj.blogspot.com/)
+- 🔭 I’m seeking a challenging position to advance my growing tech career as a Software Developer and bringing my troubleshooting skills to engineer responsive solutions along with like-minded peers.
+
+- 👨‍💻 My portfolio is available at [https://shivamraj.herokuapp.com/](https://shivamraj.herokuapp.com/)
+
+- 📝 I regulary write blogs on [https://theshivamraj.blogspot.com/](https://theshivamraj.blogspot.com/)
 
 - 💬 Ask me about **anything known to me.**
 
