@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <p valign="middle" style="font-size:2vw;"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamraj74&layout=compact&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="shivamraj74" width="50%"/></p>
 <p valign="middle" style="font-size:2vw;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamraj74&count_private=true&show_icons=true&theme=shades-of-purple&icon_color=fad000 alt="shivamraj74" width="50%" /></p>
 <p align="center">
-<img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="90%" height="auto" />
+<img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="100%" height="auto" />
   </p>
 
 <p align="center">
