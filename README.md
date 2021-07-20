@@ -50,9 +50,7 @@ Here are some ideas to get you started:
 <p valign="middle" style="font-size:2vw;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamraj74&layout=compact&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="shivamraj74"/></p>
 <p valign="middle" style="font-size:2vw;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamraj74&count_private=true&show_icons=true&theme=shades-of-purple&icon_color=fad000 alt="shivamraj74"/></p>
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamraj74" alt="shivamraj74" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shivamraj74" target="blank"><img src="https://img.shields.io/twitter/follow/shivamraj74?logo=twitter&style=for-the-badge" alt="shivamraj74" /></a> </p>
   
 <p align="center">
 <img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="100%" height="auto" />
