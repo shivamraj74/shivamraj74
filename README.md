@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="100%" height="50%" />
+<img src="https://media.giphy.com/media/EpB8oRhHSQcnu/giphy.gif" width="70%" height="50" />
   </p>
 
 <p align="center">
