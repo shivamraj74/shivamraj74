@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif) 
-# Shivam Raj&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="3px">
+# Shivam Raj&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30" width="40">
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="2.9px"> likes programming and developing...<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="2.4px">
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="40"> likes programming and developing...<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="30" width="40">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamraj74" alt="shivamraj74" /> </p>
 
